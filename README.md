@@ -7,6 +7,8 @@ This project is a customer segmentation analysis using Python, focusing on custo
 
 In this analysis, we will explore customer data, perform segmentation, and visualize the results using various Python libraries. The primary goal is to identify distinct customer segments based on their behavior, demographics, and preferences.
 
+Dataset link : [here](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python)
+
 ## Features
 
 - **Data Exploration**: Explore the mall's customer dataset to understand its structure and key attributes.
